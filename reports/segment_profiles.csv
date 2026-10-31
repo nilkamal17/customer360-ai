@@ -1,0 +1,5 @@
+segment,tenure_months,monthly_spend,orders_last_90d,avg_order_value,days_since_last_purchase,support_tickets_90d,discount_usage_pct,churned,customer_count
+0,24.08,56.25,5.18,13.37,22.81,0.52,45.59,0.14,710
+1,25.28,169.63,3.09,68.82,30.01,0.77,28.32,0.22,214
+2,23.83,59.23,5.02,14.4,27.25,2.31,27.18,0.28,412
+3,24.35,57.19,5.33,12.91,29.34,0.43,18.28,0.12,1164
